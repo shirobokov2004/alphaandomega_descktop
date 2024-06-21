@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/theme/logo.ico</file>
+        <file>resources/form/login_form.ui</file>
+    </qresource>
+</RCC>
